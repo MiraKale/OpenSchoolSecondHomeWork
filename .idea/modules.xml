@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OpenSchoolSecondHomeWork/OpenSchoolSecondHomeWork.iml" filepath="$PROJECT_DIR$/OpenSchoolSecondHomeWork/OpenSchoolSecondHomeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenSchoolSecondHomeWork/metrics-consumer/metrics-consumer.iml" filepath="$PROJECT_DIR$/OpenSchoolSecondHomeWork/metrics-consumer/metrics-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenSchoolSecondHomeWork/metrics-producer/metrics-producer.iml" filepath="$PROJECT_DIR$/OpenSchoolSecondHomeWork/metrics-producer/metrics-producer.iml" />
+    </modules>
+  </component>
+</project>
