@@ -17,7 +17,6 @@ import org.springframework.web.bind.annotation.*;
 public class MetricController {
 
     private final MetricService service;
-
     @PostMapping()
     @ResponseStatus(HttpStatus.CREATED)
     @Operation(summary = "Принимает метрики работы приложения в формате JSON")
